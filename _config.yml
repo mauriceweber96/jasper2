@@ -8,13 +8,13 @@ language: 'en-uk'
 baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: mauricewbr
+description: my life through thoughts and photography
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://jekyller.github.io/jasper2/
+production_url: https://mauriceweber96.github.io/jasper2/
 source_url: https://github.com/jekyller/jasper2/
 CNAME: https://mauricewbr.com
 
@@ -23,15 +23,15 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: mauricewbr # replace by your username
+facebook: mauricewe.9 # replace by your username
 
 # Disqus
 disqus: False
 disqus_shortname: jekyller # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-127765794-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
