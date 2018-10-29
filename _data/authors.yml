@@ -1,10 +1,11 @@
 ghost:
   username: maurice
   name: Maurice Weber
+  location: Zhuhai, China
   url_full: http://mauriceweber96.github.io/jasper2/
   url: mauriceweber96.github.io/jasper2
-  bio: my life through thoughts and photography
-  picture: assets/images/ghost.png
+  bio: Presenting my life through thoughts and photography. Creativity has no boundaries and thus it`s not as far away from rationalism as one might think.
+  picture: assets/images/mauricewbr.png
   facebook: mauricewe.9
   twitter: mauricewbr
   cover: False
