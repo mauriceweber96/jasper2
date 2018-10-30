@@ -14,3 +14,11 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+photography: 
+  name: photography
+  description: Creativity is just a leap away from rationalism. 
+  cover: False
+stories:
+  name: stories
+  description: Trying to put thoughts into words. 
+  cover: False
